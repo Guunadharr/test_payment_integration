@@ -104,8 +104,6 @@ class _HomePageState extends State<HomePage> {
     super.initState();
   }
 
-  bool isSuccessful = true;
-
   @override
   Widget build(BuildContext context) {
     // google pay
